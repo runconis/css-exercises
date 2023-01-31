@@ -68,3 +68,8 @@ ul {
   padding: 0;
   gap: 16px
 }
+
+a {
+  color: #666;
+  text-decoration: none;
+}
